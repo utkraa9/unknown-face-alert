@@ -3,3 +3,4 @@ venv/
 snapshots/
 __pycache__/
 encodings.pickle
+known_faces/
